@@ -1,6 +1,6 @@
 # Calculator
 
-## Brainnest Assignment 3 (Main JavaScript Project):
+## Brainnest Assignment 4 (Main JavaScript Project):
 
 A Simple calculator using Html,Css and JavaScript.
 
